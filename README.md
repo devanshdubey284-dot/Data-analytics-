@@ -1,2 +1,2 @@
 # Data-analytics-
-Project for MCA Invertis Uni
+Major Project 
